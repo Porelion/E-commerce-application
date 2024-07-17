@@ -1,2 +1,2 @@
 # E-commerce-application
-Repository about a E-commerce application in Java
+Repository about an E-commerce application in Java
